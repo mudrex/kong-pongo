@@ -15,7 +15,7 @@
     "test-gke": "TEST_APP=gateway mocha -g @gke --recursive"
   },
   "dependencies": {
-    "axios": "^1.6.5",
+    "axios": "^1.8.2",
     "@kong/kauth-test-utils": "^0.0.17",
     "chai": "^4.4.1",
     "@kong/khcp-api-client": "^0.1.1653",
@@ -27,7 +27,7 @@
     "dotenv": "^16.3.1",
     "expect": "^29.7.0",
     "influx": "^5.9.3",
-    "mocha": "^10.2.0",
+    "mocha": "^10.8.2",
     "mocha-multi-reporters": "^1.5.1",
     "promise-ws": "^1.0.0-1",
     "redis": "^4.6.10",
